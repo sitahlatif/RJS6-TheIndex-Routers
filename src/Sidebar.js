@@ -12,6 +12,7 @@ class Sidebar extends Component {
         <section>
           <h4 className="menu-item">
             <NavLink to="/authors">AUTHORS</NavLink>
+            <NavLink to="/books">Books</NavLink>
           </h4>
         </section>
       </div>
